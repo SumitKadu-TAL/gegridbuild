@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e48f07ce.css",
+    "main.js": "/static/js/main.4f52ea63.js",
+    "static/js/27.10a799c0.chunk.js": "/static/js/27.10a799c0.chunk.js",
+    "static/media/bg2.png": "/static/media/bg2.533262b89a4c3d2cfcf8.png",
+    "static/media/svcd.png": "/static/media/svcd.25b1faa1b9a72af34623.png",
+    "static/media/SVCDefault.png": "/static/media/SVCDefault.361021a478d1e6d94c99.png",
+    "static/media/seriesDefault.png": "/static/media/seriesDefault.56e621ab2a125962ad66.png",
+    "static/media/background1.png": "/static/media/background1.63a84e838013a8478472.png",
+    "static/media/SVC1.png": "/static/media/SVC1.80538a9c0b35a7df7ccb.png",
+    "static/media/SVC3.png": "/static/media/SVC3.d60eed10ce26b9fba877.png",
+    "static/media/SVC2.png": "/static/media/SVC2.e861d06376f241e45147.png",
+    "static/media/satcom3.png": "/static/media/satcom3.6f1bae163a02c60341d4.png",
+    "static/media/protfolioHero.png": "/static/media/protfolioHero.e036f9823917cb7ff5a2.png",
+    "static/media/sync1.png": "/static/media/sync1.6503af1d8f9b793d271f.png",
+    "static/media/sync3.png": "/static/media/sync3.a8477a13a6891bbd5340.png",
+    "static/media/condenserDefault.png": "/static/media/condenserDefault.509b23e1bc50bb4ea998.png",
+    "static/media/sync4.png": "/static/media/sync4.cac99348b76df01eef68.png",
+    "static/media/applicationHero.png": "/static/media/applicationHero.b5665f8fe1d2c829b94d.png",
+    "static/media/sync2.png": "/static/media/sync2.4ed78b5afb68903bf9ed.png",
+    "static/media/satcom.png": "/static/media/satcom.77e073d119d356d7fce9.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.f4074a66a07aa34fcd50.png",
+    "static/media/portfolio4.png": "/static/media/portfolio4.a97e3ecc69e1b7e1d1bd.png",
+    "static/media/satcom2.png": "/static/media/satcom2.bd76f11baed8d44504ef.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.d9ed538fcf467c0c8ea8.png",
+    "static/media/satcom1.png": "/static/media/satcom1.33cd3ede2ba9cc08673a.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.825b2c93dd9518c94947.png",
+    "static/media/GEInspiraSans-Italic.otf": "/static/media/GEInspiraSans-Italic.7b5aba823c9b387172c7.otf",
+    "static/media/GEInspiraSans-Regular.otf": "/static/media/GEInspiraSans-Regular.d05fa6e1c818b24590b4.otf",
+    "static/media/GEInspiraSans-Bold.otf": "/static/media/GEInspiraSans-Bold.5c4306d554681807edb5.otf",
+    "static/media/GElogo.png": "/static/media/GElogo.23524ff88f30e1842e90.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/launchBg.png": "/static/media/launchBg.d4dbde66c232872bfa3d.png",
+    "static/media/condenserIcon.png": "/static/media/condenserIcon.1ba1340bf213605adfb9.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e48f07ce.css",
+    "static/js/main.4f52ea63.js"
+  ]
+}
